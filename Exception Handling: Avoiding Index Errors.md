@@ -27,4 +27,4 @@ To write a Python program that handles an **IndexError** when trying to access a
 
 ## Result
 
-Thus the python program to handle IndexError when trying to aaccess a element beyond the available range of a list, is written and executed successfully.
+Thus the python program to handle IndexError when trying to access a element beyond the available range of a list, is written and executed successfully.
